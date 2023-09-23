@@ -1,0 +1,64 @@
+body {
+
+    background-color: gray;
+}
+
+.callMe {
+    text-align: center;
+    color: aliceblue;
+    margin-left: 40px;
+    border-radius: 30px;
+}
+
+h3 {
+    font-size: 60px;
+    background-color: gold;
+    border: inset;
+    text-align: left;
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 70px;
+    margin-right: 90px;
+    margin-left: 100px;
+    padding: 60px;
+
+
+
+}
+
+#we_r {
+    font-size: 70px;
+    /* border: ridge; */
+    text-align: right;
+    color: blue;
+    margin: 10px 20px 5px;
+    outline: groove;
+
+}
+
+.color {
+    background-color: rgb(166, 206, 191);
+    border-top-style: dotted;
+    border-top-style: solid;
+    border-top-style: dotted;
+    border-top-style: solid;
+    width: 500px;
+    border-width: 50, 26, 10, 30;
+    padding: 40px 50px 30px;
+
+}
+
+.lab7 {
+
+
+    margin: auto;
+    border: 5px solid black;
+    padding-top: 50px;
+    outline-style: solid;
+
+}
+/* البحث */
+.box::before {
+    content: "Before ";
+    font-weight: bold;
+  }
